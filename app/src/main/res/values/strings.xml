@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Walden</string>
+
+    <string name="bottomnav_title_0">title0</string>
+    <string name="bottomnav_title_1">title1</string>
+    <string name="bottomnav_title_2">title2</string>
+
+</resources>
